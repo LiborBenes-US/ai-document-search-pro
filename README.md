@@ -35,7 +35,7 @@ This app is the complete Retrieval system: the essential foundation for any RAG 
 🛡️ Enterprise-Grade Security
 - **100% Local Processing**: No data leaves your computer
 - **No API Keys Required**: Completely free to use
-- **Military-Grade Privacy**: Your documents remain yours
+- **Privacy-First**: Your documents remain yours
 - **Secure File Handling**: Sanitized uploads and processing
 
 📖 Interactive Knowledge Base
