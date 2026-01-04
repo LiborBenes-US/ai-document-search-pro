@@ -1,6 +1,6 @@
 🔍 AI Document Search Pro - Local RAG System
 
-Transform static documents into interactive, queryable institutional knowledge. A complete local RAG (Retrieval-Augmented Generation) system that works entirely offline with military-grade privacy.
+Transform static documents into interactive, queryable institutional knowledge. A complete local RAG (Retrieval-Augmented Generation) system that works entirely offline with strong privacy.
 
 ![Security](https://img.shields.io/badge/Security-100%25_Local-green)
 ![Privacy](https://img.shields.io/badge/Privacy-No_API_Keys-blue)
